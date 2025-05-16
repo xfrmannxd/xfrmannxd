@@ -1,11 +1,11 @@
-# 📦 Update Log — ABot
-
-────────────────────────────────────────
-📌 UPDATE — Jumat, 16 Mei 2025 | ±10:00 WIB
-────────────────────────────────────────
-
-• Redesain sistem menu menjadi lebih simple  
-• RPG ditambahkan dengan lebih dari 10 fitur  
-• Baileys engine diperbarui ke versi terbaru  
-• Bug diperbaiki pada game Werewolf & Skata  
-────────────────────────────────────────
+{
+  "date": "2025-05-16T10:00:00+07:00",
+  "log": [
+    "[+] Menu: Simple, clean & minimal",
+    "[+] RPG: Added 10+ game features",
+    "[↑] Baileys: Core updated to latest",
+    "[✓] Fix: Werewolf & Skata Game bugs"
+  ],
+  "version": "v2.5.1",
+  "author": "xFrmann"
+}
