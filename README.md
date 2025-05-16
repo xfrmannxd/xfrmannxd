@@ -1,10 +1,6 @@
-{
-  "updateDate": "2025-05-16",
-  "time": "±10:00 WIB",
-  "changelog": [
-    "Menu disederhanakan",
-    "Tambah RPG baru (10+ fitur)",
-    "Upgrade core Baileys",
-    "Fix game Werewolf & Skata"
-  ]
-}
+🛠️ PATCH NOTES | 16.05.2025 — ±10:00 WIB
+
+• Redesain Menu → Lebih clean & responsif  
+• Sistem RPG Baru → Tambahan 10+ gameplay & item  
+• Engine Baileys Ditingkatkan → Stabilitas maksimal  
+• Bugfix Game → Werewolf & Skata lebih smooth
